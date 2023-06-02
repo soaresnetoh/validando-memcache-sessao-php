@@ -1,1 +1,2 @@
 
+# validando-memcache-sessao-php
